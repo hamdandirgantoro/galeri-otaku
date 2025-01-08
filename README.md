@@ -10,12 +10,12 @@ Currently, two official plugins are available:
 # Instruksi Menjalankan Applikasi
 
 ```
-git pull https://github.com/hamdandirgantoro/galeri-otaku.git 
+git clone https://github.com/hamdandirgantoro/galeri-otaku.git 
 cd galeri-otaku
 npm install
 npm run dev
 ```
 > one liner
 ```
-git pull https://github.com/hamdandirgantoro/galeri-otaku.git && cd galeri-otaku && npm install && npm run dev
+git clone https://github.com/hamdandirgantoro/galeri-otaku.git && cd galeri-otaku && npm install && npm run dev
 ```
